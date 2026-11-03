@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "name": "FocusFlow",
+    "version": "1.0",
+    "description": "Pomodoro para um melhor gerenciamento do tempo em estudos",
+    "action": {"default_popup": "popup/popup.html"}
+}
